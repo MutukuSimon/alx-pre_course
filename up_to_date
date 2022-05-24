@@ -1,1 +1,1 @@
-git pull --prune
+git pull remote_name branch_name
